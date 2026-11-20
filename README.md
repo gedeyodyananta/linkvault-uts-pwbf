@@ -56,8 +56,8 @@ Alternatively, run `composer run setup` to automatically install dependencies, r
 ## Student Identity
 
 - Name: Gede Yodyananta
-- NIM: [Isi NIM]
-- Class: [Isi Kelas]
+- NIM: 25354105
+- Class: 3A
 
 ## License
 

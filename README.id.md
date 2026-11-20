@@ -56,8 +56,8 @@ Alternatif: jalankan `composer run setup` untuk otomatis melakukan instalasi, mi
 ## Identitas Mahasiswa
 
 - Nama: Gede Yodyananta
-- NIM: [Isi NIM]
-- Kelas: [Isi Kelas]
+- NIM: 25354105
+- Kelas: 3A
 
 ## Lisensi
 
